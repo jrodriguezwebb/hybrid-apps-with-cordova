@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "es.cta.cordova.camerapp"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "es.cta.cordova.camerapp"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "es.cta.cordova.camerapp"
+    }
+  },
+  "dependent_plugins": {}
+}
